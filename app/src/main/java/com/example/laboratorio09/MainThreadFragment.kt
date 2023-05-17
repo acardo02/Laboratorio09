@@ -16,8 +16,6 @@ class MainThreadFragment : Fragment() {
     private var count = 0
     private lateinit var binding: FragmentMainThreadBinding
 
-
-
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
